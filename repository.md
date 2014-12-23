@@ -8,4 +8,6 @@
 
 [Other Walks](https://gist.github.com/scottmav/345e6437fbf96bbc853b#other-walks)
 
-[Festivals - Home Page Code]()
+[Festivals - Home Page Code](https://gist.github.com/scottmav/b10e942121825547c4b4#festivals-home-page-code)
+
+[Markets - Home Page Code]()
