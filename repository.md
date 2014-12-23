@@ -5,3 +5,5 @@
 [Holborn Walk Pages](https://gist.github.com/scottmav/25ca5ed0f1c29a3757a0#guided-walks)
 
 [Event Venues](https://gist.github.com/scottmav/953255b693bfaf2be970#event-venues)
+
+[Other Walks]()
