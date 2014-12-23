@@ -14,4 +14,4 @@
 
 [Markets - Home Page Code](https://gist.github.com/scottmav/d92087b45fd3ca4e800e#market-pages---home-page-code)
 
-[Tours]()
+[Tours](https://gist.github.com/scottmav/0baa9b4f2f0fb1a65f06#tour-pages)
