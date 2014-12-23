@@ -6,4 +6,4 @@
 
 [Event Venues](https://gist.github.com/scottmav/953255b693bfaf2be970#event-venues)
 
-[Other Walks]()
+[Other Walks](https://gist.github.com/scottmav/345e6437fbf96bbc853b#other-walks)
