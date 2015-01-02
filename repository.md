@@ -4,7 +4,7 @@
 
 [Churches - Home Page Code](https://gist.github.com/scottmav/aece5c81e4fc2fc1604b#home-page-code-for-all-church-listings)
 
-[Annual Events]()
+[Annual Events](https://gist.github.com/scottmav/d9b0943611a60286ace2#annual-events)
 
 [Event Venues](https://gist.github.com/scottmav/953255b693bfaf2be970#event-venues)
 
