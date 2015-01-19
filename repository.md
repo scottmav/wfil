@@ -2,6 +2,8 @@
 
 [Main Git](https://github.com/scottmav/wfil/blob/master/repository.md#repo-for-all-wfil)
 
+[Advertisers](https://gist.github.com/scottmav/ce4ad65094efcd13366b#advertisers)
+
 [Churches - Home Page Code](https://gist.github.com/scottmav/aece5c81e4fc2fc1604b#home-page-code-for-all-church-listings)
 
 [Annual Events](https://gist.github.com/scottmav/d9b0943611a60286ace2#annual-events)
