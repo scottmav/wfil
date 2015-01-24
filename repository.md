@@ -10,7 +10,7 @@
 
 [Event Venues](https://gist.github.com/scottmav/953255b693bfaf2be970#event-venues)
 
-[GTM Implementation](https://gist.github.com/scottmav/270edad974a830f0d1fd#sony-mobile-reference-guide)
+[GTM Implementation](https://gist.github.com/scottmav/270edad974a830f0d1fd#google-tag-manager-implementation-instructions)
 
 [Landmarks](https://gist.github.com/scottmav/09ff042ad14d879ee24c#landmarks)
 
